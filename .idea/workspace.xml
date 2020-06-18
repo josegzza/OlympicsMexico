@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c41c5bb-0002-4d78-8105-9319f5906072" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dQSpCIaw7PV5X3vRwWXdp0gZor" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OlympicsMexico" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c41c5bb-0002-4d78-8105-9319f5906072" name="Default Changelist" comment="" />
+      <created>1592356003189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592356003189</updated>
+      <workItem from="1592356018617" duration="1148000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="726" y="265" width="530" height="606" key="FileChooserDialogImpl" timestamp="1592356327219">
+      <screen x="83" y="34" width="1837" height="1046" />
+    </state>
+    <state x="726" y="265" width="530" height="606" key="FileChooserDialogImpl/83.34.1837.1046@83.34.1837.1046" timestamp="1592356327219" />
+    <state width="1781" height="259" key="GridCell.Tab.0.bottom" timestamp="1592356545164">
+      <screen x="83" y="34" width="1837" height="1046" />
+    </state>
+    <state width="1781" height="259" key="GridCell.Tab.0.bottom/83.34.1837.1046@83.34.1837.1046" timestamp="1592356545164" />
+    <state width="1781" height="259" key="GridCell.Tab.0.center" timestamp="1592356545163">
+      <screen x="83" y="34" width="1837" height="1046" />
+    </state>
+    <state width="1781" height="259" key="GridCell.Tab.0.center/83.34.1837.1046@83.34.1837.1046" timestamp="1592356545163" />
+    <state width="1781" height="259" key="GridCell.Tab.0.left" timestamp="1592356545163">
+      <screen x="83" y="34" width="1837" height="1046" />
+    </state>
+    <state width="1781" height="259" key="GridCell.Tab.0.left/83.34.1837.1046@83.34.1837.1046" timestamp="1592356545163" />
+    <state width="1781" height="259" key="GridCell.Tab.0.right" timestamp="1592356545164">
+      <screen x="83" y="34" width="1837" height="1046" />
+    </state>
+    <state width="1781" height="259" key="GridCell.Tab.0.right/83.34.1837.1046@83.34.1837.1046" timestamp="1592356545164" />
+    <state x="366" y="104" width="1271" height="913" key="SettingsEditor" timestamp="1592356524951">
+      <screen x="83" y="34" width="1837" height="1046" />
+    </state>
+    <state x="366" y="104" width="1271" height="913" key="SettingsEditor/83.34.1837.1046@83.34.1837.1046" timestamp="1592356524951" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OlympicsMexico$main.coverage" NAME="main Coverage Results" MODIFIED="1592515556946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
